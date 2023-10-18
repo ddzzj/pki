@@ -22,6 +22,6 @@
   "homepage": "https://www.dogtagpki.org",
   "dependencies": {
     "@patternfly/patternfly": "^4.35.2",
-    "jquery": "^3.5.1"
+    "jquery": "^3.7.1"
   }
 }
