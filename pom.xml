@@ -139,7 +139,7 @@
         <dependency>
             <groupId>org.jboss.resteasy</groupId>
             <artifactId>resteasy-jaxrs</artifactId>
-            <version>3.0.19.Final</version>
+            <version>3.15.6.Final</version>
             <scope>runtime</scope>
         </dependency>
 
